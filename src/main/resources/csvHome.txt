@@ -1,0 +1,6 @@
+NameSername,sex,distance,time
+AlekseyNikiforov,M,10km,52:40
+NikitaDavlatov,M,5km,25:40
+NastyaKuzhilina,F,10km,50:15
+FedorZhykov,M,10km,53:12
+ArinaKolomina,F,5km,22:50
